@@ -1,0 +1,9 @@
+D:\Makara\Projects\POS2022\POS_System\POS_System\bin\Debug\POS System.exe.config
+D:\Makara\Projects\POS2022\POS_System\POS_System\bin\Debug\POS System.exe
+D:\Makara\Projects\POS2022\POS_System\POS_System\bin\Debug\POS System.pdb
+D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS System.csprojAssemblyReference.cache
+D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS_System.Properties.Resources.resources
+D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS System.csproj.GenerateResource.cache
+D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS System.csproj.CoreCompileInputs.cache
+D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS System.exe
+D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS System.pdb
