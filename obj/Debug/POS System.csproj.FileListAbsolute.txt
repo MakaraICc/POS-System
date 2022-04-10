@@ -9,3 +9,4 @@ D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS System.exe
 D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS System.pdb
 D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS_System.Home.resources
 D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS_System.UserLogin.resources
+D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS_System.Users.resources
