@@ -10,3 +10,16 @@ D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS System.pdb
 D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS_System.Home.resources
 D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS_System.UserLogin.resources
 D:\Makara\Projects\POS2022\POS_System\POS_System\obj\Debug\POS_System.Users.resources
+C:\Worksplace\POS-System\bin\Debug\POS System.exe.config
+C:\Worksplace\POS-System\bin\Debug\POS System.exe
+C:\Worksplace\POS-System\bin\Debug\POS System.pdb
+C:\Worksplace\POS-System\obj\Debug\POS System.csproj.AssemblyReference.cache
+C:\Worksplace\POS-System\obj\Debug\POS System.csproj.SuggestedBindingRedirects.cache
+C:\Worksplace\POS-System\obj\Debug\POS_System.Home.resources
+C:\Worksplace\POS-System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Worksplace\POS-System\obj\Debug\POS_System.UserLogin.resources
+C:\Worksplace\POS-System\obj\Debug\POS_System.Users.resources
+C:\Worksplace\POS-System\obj\Debug\POS System.csproj.GenerateResource.cache
+C:\Worksplace\POS-System\obj\Debug\POS System.csproj.CoreCompileInputs.cache
+C:\Worksplace\POS-System\obj\Debug\POS System.exe
+C:\Worksplace\POS-System\obj\Debug\POS System.pdb
